@@ -1,0 +1,23 @@
+{
+  "name": "node-example",
+  "version": "1.0.0",
+  "description": "Example applications developed as part of learning",
+  "main": "firstprogram.js",
+  "scripts": {
+    "test": "node firstprogram.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramanvredd/node-example.git"
+  },
+  "keywords": [
+    "node",
+    "example"
+  ],
+  "author": "Ramanjaneya <ramanv.redd@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramanvredd/node-example/issues"
+  },
+  "homepage": "https://github.com/ramanvredd/node-example#readme"
+}
